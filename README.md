@@ -6,11 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
-<i class="fab fa-twitter"></i>
-
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+<a href="https://twitter.com/bagerakbay"><i class="fab fa-twitter"></i></a>
 
 ### Markdown
 
